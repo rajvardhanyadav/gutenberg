@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/gutenberg_purple_light</item>
+        <item name="colorPrimaryDark">@color/gutenberg_purple_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="EditTextSearchStyle" parent="android:style/Widget.EditText">
+        <item name="android:background">@drawable/rounder_edittext_search</item>
+        <item name="android:padding">@dimen/card_spacing</item>
+        <item name="android:drawableLeft">@drawable/ic_search</item>
+        <item name="android:drawablePadding">@dimen/edittext_drawable_padding</item>
+    </style>
+
+</resources>

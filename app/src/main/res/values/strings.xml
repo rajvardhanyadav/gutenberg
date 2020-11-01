@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gutenberg</string>
+    <string name="genre_tag_fiction">Fiction</string>
+    <string name="genre_tag_history">History</string>
+    <string name="genre_tag_drama">Drama</string>
+    <string name="genre_tag_phil">Philosophy</string>
+    <string name="genre_tag_politics">Politics</string>
+    <string name="genre_tag_humour">Humour</string>
+    <string name="genre_tag_advnture">Adventure</string>
+    <string name="genre_icon">genre icon</string>
+    <string name="nav_arrow">nav arrow</string>
+    <string name="title">Gutenberg Project</string>
+    <string name="sub_title">A social cataloging website that allows you to freely search its database of books, annotations, and reviews.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">search</string>
+</resources>
